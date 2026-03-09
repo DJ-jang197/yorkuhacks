@@ -47,7 +47,7 @@
 
 ### Gemini API Key
 - **Status:** ⚠️ 429 RATE LIMIT EXCEEDED
-- **API Key:** AIzaSyD1E2qusfyzF_uOMLPUx0oTVAK0tt9JijM
+- **API Key:** Hidden
 - **Problem:** Free tier limit reached (~20 requests/day)
 
 **Fix Options:**
