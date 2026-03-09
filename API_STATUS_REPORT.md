@@ -32,7 +32,7 @@
 
 ### Google Places API Key
 - **Status:** ❌ 403 FORBIDDEN
-- **API Key:** AIzaSyC2aJjW7ajBjER4IHjDva9KExP6vwoeSrM
+- **API Key:** Hidden
 - **Problem:** "Places API (New) has not been used in project 1008135983343 before or it is disabled"
 
 **Fix:**
